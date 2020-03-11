@@ -45,3 +45,5 @@ sum.get('/sum', (req, res) => {
 })
 
 module.exports = sum; 
+
+//Created a /GET endpoint

@@ -20,3 +20,5 @@ describe('GET /sum', () => {
             .expect(400, 'Value for a is needed')
     })
 })
+
+//Testing a GET endpoint 
