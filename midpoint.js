@@ -41,6 +41,6 @@ midpoint.get('/midpoint', (req, res) => {
     
     res.json({
         lat: toDegrees(midLat),
-        lon: toDegrees(midLon);
+        lon: toDegrees(midLon),
     })
 })
